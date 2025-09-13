@@ -1,6 +1,23 @@
 <resources>
     <string name="app_name">My Application</string>
+    //activity main
     <string name="txt_welcome">Bienvenido</string>
     <string name="btn_Login">Iniciar Sesion</string>
     <string name="btn_SignUp">Registrarse</string>
+
+    //signin page
+    <string name="txt_Correo">Correo Electronico</string>
+    <string name="txt_Contraseña">Ingrese Contraseña</string>
+    <string name="txt_ConfContraseña">Confirmar Contraseña</string>
+    <string name="txt_TituloR">Registrarse</string>
+    <string name="txt_Nombre">Ingrese Nombre</string>
+    <string name="btn_registrarse">Registrarse</string>
+
+    //login page
+    <string name="txt_RegistroI">Inicie Sesion</string>
+    <string name="txt_RegistroII">Ingrese datos de inicio de sesion</string>
+    <string name="txt_email">Ingrese email</string>
+    <string name="txt_IngContra">Ingrese contraseña</string>
+    <string name="btn_ingresar">Iniciar Sesion</string>
+
 </resources>
